@@ -1,5 +1,5 @@
 import * as React from "react"
-import type { HeadFC, PageProps } from "gatsby"
+import type { HeadFC, PageProps, useStaticQuery, graphql } from "gatsby"
 import { StaticImage } from 'gatsby-plugin-image'
 
 const pageStyles = {
