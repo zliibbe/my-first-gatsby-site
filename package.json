@@ -1,8 +1,8 @@
 {
-  "name": "my-first-gasby-site",
+  "name": "my-first-gatsby-site",
   "version": "1.0.0",
   "private": true,
-  "description": "my-first-gasby-site",
+  "description": "my-first-gatsby-site",
   "author": "Zach Liibbe",
   "keywords": [
     "gatsby"
